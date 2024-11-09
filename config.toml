@@ -72,7 +72,6 @@
   folderName = "help"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["I need help", "https://chat.workmates.live/channel/support?layout=embedded"],
     ["Send us an e-mail", "mailto:support@workdojos.com"],
   ]
 
